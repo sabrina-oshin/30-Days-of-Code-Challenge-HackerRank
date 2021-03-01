@@ -1,4 +1,4 @@
-# Day01_Problem01:
+# Day00:
 # A single line of text denoting x (the variable whose contents must be printed)
 # Print Hello, World. on the first line, and the contents of x  on the second line.
 # The code starts here:

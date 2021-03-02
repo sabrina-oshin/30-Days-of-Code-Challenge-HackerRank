@@ -1,4 +1,4 @@
-# Day01_Problem02
+# Day01
 # The first line contains an integer that you must sum with i
 # The second line contains a double that you must sum with d
 # The third line contains a string that you must concatenate with s

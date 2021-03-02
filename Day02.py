@@ -1,4 +1,4 @@
-# Day02_Problem01
+# Day02
 # There are  lines of numeric input:
 # The first line has a double, meal_cost (the cost of the meal before tax and tip)
 # The second line has an integer, tip_percent (the percentage of meal_cost being added as tip)
